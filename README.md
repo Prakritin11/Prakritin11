@@ -19,12 +19,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
-    </p>
-    <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=prakritin11&theme=dracula&margin-w=10&margin-h=10&column=8" alt="prakritin11 Trophies">
-    </a>
-</p>        
+    </p>       
     <p align="center">📫 Reach me out <strong>prakritiniroula7@gmail.com</strong></p>
     <p align="center">⚡ Outside of the coding world, I also do music and basketball ! 🎶🏀</p>
         <h3 align="center">Let's Connect 🤝</h3>
