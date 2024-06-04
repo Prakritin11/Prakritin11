@@ -3,6 +3,9 @@
    <p align="center">
     <img src="https://komarev.com/ghpvc/?username=prakritin11&label=Profile%20views&color=0e75b6&style=plastic&logo=github" alt="prakritin11 Profile Views">
 </p>  
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakritin11&theme=dracula" alt="prakritin11 Streak">
+</p> 
     <h3 align="center">Languages and Tools I Wield 🛠️</h3>
     <p align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
@@ -18,13 +21,10 @@
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
     </p>
     <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakritin11&theme=dracula" alt="prakritin11 Streak">
-</p>
- <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=prakritin11&theme=dracula&margin-w=10&margin-h=10&column=8" alt="prakritin11 Trophies">
     </a>
-</p>    
+</p>        
     <p align="center">📫 Reach me out <strong>prakritiniroula7@gmail.com</strong></p>
     <p align="center">⚡ Outside of the coding world, I also do music and basketball ! 🎶🏀</p>
         <h3 align="center">Let's Connect 🤝</h3>
@@ -38,7 +38,4 @@
         <a href="https://www.youtube.com/channel/UCoQariTZ9ombekl-4sFWVRA" target="_blank">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
         </a>
-    </p>
-       <p align="center">
-          <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhuc2xneXgxcDFkOWx0MXZ2bTh3bW00dmpoaTBpdjdsamNxaWlpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XROOE9NApITmCgF6dZ/giphy.gif" alt="end" width="150" height="150"/>
-       </p>
+    </p>       
