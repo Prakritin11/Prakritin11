@@ -25,12 +25,6 @@
     <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakritin11&theme=dracula" alt="prakritin11 Streak">
 </p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=prakritin11&show_icons=true&locale=en&theme=dracula" alt="prakritin11 Stats">
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakritin11&show_icons=true&locale=en&layout=compact&theme=dracula" alt="prakritin11 Top Languages">
-</p>
     <p align="center">📫 Reach me out <strong>prakritiniroula7@gmail.com</strong></p>
     <p align="center">⚡ Outside of the coding world, I also do music and basketball ! 🎶🏀</p>
         <h3 align="center">Let's Connect 🤝</h3>
