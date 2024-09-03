@@ -24,7 +24,7 @@
     <p align="center">⚡ Outside of the coding world, I also do music and basketball ! 🎶🏀</p>
         <h3 align="center">Let's Connect 🤝</h3>
     <p align="center">
-        <a href="https://linkedin.com/in/prakritin_11" target="_blank">
+        <a href="https://linkedin.com/in/prakritin11" target="_blank">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
         </a>
         <a href="https://instagram.com/prakrity_11" target="_blank">
