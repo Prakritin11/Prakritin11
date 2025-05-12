@@ -6,10 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=prakritin11&label=Profile%20Views&color=ffc7f8&style=flat-square" alt="Profile Views">
 </p>
 
-<!-- Coding GIF -->
+<!-- GIF -->
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWtreHlpMHV0M2d0ajV0NXRueHB3b3kxNzBnMGtmazRwb3F4ZGhsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" 
-       alt="GIF of a girl coding" 
+       alt="gif" 
        style="max-width: 100px; height: 100px;">
 </p>
 
@@ -29,7 +29,7 @@
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakritin11&theme=dark&background=ffc7f8&hide_border=true" alt="GitHub Streak" style="height: 150px; width: auto;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakritin11&theme=dark&background=ffc7f8&hide_border=true" alt="Prakriti's GitHub Streak" style="height: 150px; width: auto;">
 </p>
 
 <!-- Email Address -->
